@@ -11,7 +11,6 @@ Welcome to OurKitchen, your go-to recipe application for discovering, saving, an
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -36,7 +35,7 @@ OurKitchen is a web-based recipe application built with the MERN (MongoDB, Expre
 To get started with OurKitchen, follow these steps:
 
 1. **Clone the Repository:**
-   - git clone https://github.com/your-username/ourkitchen.git
+   - git clone https://github.com/skaje27/ourkitchen.git
    - cd ourkitchen
 
 2. **Install Dependencies:**
@@ -74,8 +73,4 @@ We welcome contributions from the community. If you'd like to contribute to OurK
 
 4. Be sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](OurKitchen) file for details.
----
 Thank you for choosing OurKitchen for your culinary adventures. Happy cooking!
